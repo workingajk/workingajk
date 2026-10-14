@@ -2,6 +2,8 @@
 
 I'm an aspiring full-stack developer currently learning the **MERN stack**. I enjoy building practical, user-focused web applications and learning by shipping projects.
 
+**Alternate GitHub account:** [Antony-Jose](https://github.com/Antony-Jose)
+
 ## What I'm learning
 
 - The MERN stack: MongoDB, Express.js, React, and Node.js
