@@ -1,6 +1,19 @@
 # Hi, I'm Antony Jose 👋
 
-I'm a developer who enjoys building practical, user-focused web applications and learning by shipping projects.
+I'm an aspiring full-stack developer currently learning the **MERN stack**. I enjoy building practical, user-focused web applications and learning by shipping projects.
+
+## What I'm learning
+
+- The MERN stack: MongoDB, Express.js, React, and Node.js
+- React fundamentals and building responsive user interfaces
+- Full-stack application development and modern web-development tools
+
+## Languages and technologies
+
+- React — beginner / growing experience
+- Java and C
+- JavaScript, HTML, and CSS
+- Other languages and tools explored across my repositories
 
 ## What I build
 
@@ -15,10 +28,6 @@ I'm a developer who enjoys building practical, user-focused web applications and
 - [Weather App](https://github.com/workingajk/weatherApp)
 - [Event Management Project](https://github.com/workingajk/event-management-project)
 - [Portfolio](https://github.com/workingajk/portfolio)
-
-## Currently exploring
-
-I'm continuing to strengthen my skills by building projects, improving user experiences, and working with modern web-development tools.
 
 ## Let's connect
 
